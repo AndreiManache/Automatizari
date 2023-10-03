@@ -1,0 +1,11 @@
+{
+  "name": "aplicare_promovari",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.0.0",
+    "cypress-file-upload": "^5.0.8",
+    "xlsx": "^0.18.5"
+  }
+}
